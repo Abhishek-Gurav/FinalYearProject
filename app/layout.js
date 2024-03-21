@@ -7,7 +7,7 @@ import { Link } from "@nextui-org/link";
 import { title, subtitle } from "@/components/primitives";
 import clsx from "clsx";
 export const metadata = {
-  title: {
+  title: { 
     default: siteConfig.name,
     template: `%s - ${siteConfig.name}`,
   },

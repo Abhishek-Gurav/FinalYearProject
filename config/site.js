@@ -1,5 +1,5 @@
 export const siteConfig = {
-	name: "Environmental Map",
+	name: "GroundWise",
 	description: "Check Data on map",
 	navItems: [
     {
